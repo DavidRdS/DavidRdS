@@ -1,73 +1,43 @@
-<h1 align="center">👋 Olá! Eu sou o David Roberto</h1>
-
-<p align="center">Desenvolvedor Full Stack em evolução | 🧪 Testes | 🧑‍💻 Automação | 🐳 Docker | ☕ Java | 🌐 JavaScript</p>
-
----
-
-## 🚀 Sobre mim
-Sou um desenvolvedor focado em construir aplicações completas, passando por:
-- Frontend moderno
-- Backend robusto
-- Testes automatizados (Cypress)
-- APIs REST
-- Banco de dados
-- Deploy e automação
-
-Sempre estudando e melhorando meus projetos — incluindo o **Mercado Fácil**, que está evoluindo para a versão 2.0 com frontend, backend e automação.
+<h1 align="center">👋 Olá! Eu sou o David</h1>
+<h3 align="center">Desenvolvedor Full Stack | Focado em automações, APIs e aplicações web modernas</h3>
 
 ---
+## 👨‍💻 Sobre mim
 
-## 🛠 Tecnologias que uso no dia a dia
+- 🚀 Desenvolvedor focado em **Node.js, Express, APIs REST, PostgreSQL, React e automações**  
+- 🧪 Experiência com **Cypress, Jest e testes automatizados**  
+- 🐳 Entusiasta de **Docker e DevOps**  
+- 📈 Sempre estudando novas tecnologias e aprimorando projetos reais  
+## 🧰 Tecnologias que uso no dia a dia
 
-### **Frontend**
-- HTML, CSS, JavaScript
-- React (em progresso)
+**Back-end:**  
+Node.js • Express • JWT • PostgreSQL • Prisma • MySQL  
 
-### **Backend**
-- Node.js  
-- Express  
-- Java (Spring Boot)  
+**Front-end:**  
+React • Vite • HTML • CSS • JavaScript  
 
-### **Banco de Dados**
-- PostgreSQL  
-- MySQL  
-- SQLite  
+**DevOps / Testes:**  
+Docker • Docker Compose • Git • Cypress • Jest  
+## ⭐ Projetos em Destaque
 
-### **DevOps**
-- Docker  
-- Git & GitHub  
-- GitHub Actions (CI/CD)
+🔹 **MercadoFácil – API de produtos**  
+API completa em Node.js + Express + PostgreSQL  
+🔗 https://github.com/SEUUSER/mercadofacil-api
 
-### **Testes**
-- Cypress  
-- Jest (iniciando)
+🔹 **Automation Cypress Starter**  
+Minha base de testes automatizados  
+🔗 https://github.com/SEUUSER/cypress-automation
 
----
-
-## 📌 Projetos em destaque
-
-### 🔹 **Mercado Fácil — Versão 2.0**
-- Frontend moderno  
-- Backend reestruturado  
-- Testes automatizados com Cypress  
-- Organização por branchs  
-➡️ [Acesse o repositório](https://github.com/DavidRdS/Mercado_Facil_POO_2.0)
-
----
-
-## 📈 Estatísticas
+🔹 **E-commerce Front-end**  
+Loja completa com React + Vite  
+🔗 https://github.com/SEUUSER/ecommerce-react
+## 📊 Estatísticas
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DavidRdS&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRdS&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=tokyonight"/>
 </div>
+## 📬 Entre em contato
 
----
-
-## 🤝 Contato
-📧 **Email:** davidroberto_11@hotmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/david-roberto-31724a376/
-
----
-
-🔥 *Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus projetos.*
+📧 Email: davidroberto_11@hotmail.com 
+💼 LinkedIn: https://www.linkedin.com/in/david-roberto-31724a376/
