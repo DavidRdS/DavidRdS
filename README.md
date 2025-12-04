@@ -1,16 +1,73 @@
-## Hi there 👋
+<h1 align="center">👋 Olá! Eu sou o David Roberto</h1>
 
-<!--
-**DavidRdS/DavidRdS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Desenvolvedor Full Stack em evolução | 🧪 Testes | 🧑‍💻 Automação | 🐳 Docker | ☕ Java | 🌐 JavaScript</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Sou um desenvolvedor focado em construir aplicações completas, passando por:
+- Frontend moderno
+- Backend robusto
+- Testes automatizados (Cypress)
+- APIs REST
+- Banco de dados
+- Deploy e automação
+
+Sempre estudando e melhorando meus projetos — incluindo o **Mercado Fácil**, que está evoluindo para a versão 2.0 com frontend, backend e automação.
+
+---
+
+## 🛠 Tecnologias que uso no dia a dia
+
+### **Frontend**
+- HTML, CSS, JavaScript
+- React (em progresso)
+
+### **Backend**
+- Node.js  
+- Express  
+- Java (Spring Boot)  
+
+### **Banco de Dados**
+- PostgreSQL  
+- MySQL  
+- SQLite  
+
+### **DevOps**
+- Docker  
+- Git & GitHub  
+- GitHub Actions (CI/CD)
+
+### **Testes**
+- Cypress  
+- Jest (iniciando)
+
+---
+
+## 📌 Projetos em destaque
+
+### 🔹 **Mercado Fácil — Versão 2.0**
+- Frontend moderno  
+- Backend reestruturado  
+- Testes automatizados com Cypress  
+- Organização por branchs  
+➡️ [Acesse o repositório](https://github.com/DavidRdS/Mercado_Facil_POO_2.0)
+
+---
+
+## 📈 Estatísticas
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DavidRdS&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRdS&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+## 🤝 Contato
+📧 **Email:** davidrsousa9@gmail.com  
+💼 **LinkedIn:** (adicione aqui seu link)
+
+---
+
+🔥 *Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus projetos.*
