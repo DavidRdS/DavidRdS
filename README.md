@@ -65,8 +65,8 @@ Sempre estudando e melhorando meus projetos — incluindo o **Mercado Fácil**, 
 ---
 
 ## 🤝 Contato
-📧 **Email:** davidrsousa9@gmail.com  
-💼 **LinkedIn:** (adicione aqui seu link)
+📧 **Email:** davidroberto_11@hotmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/david-roberto-31724a376/
 
 ---
 
